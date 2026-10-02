@@ -1,6 +1,6 @@
 # Hi, I'm Khanh (Kelly) Tran 👋
 
-CS @ Clemson University (B.S. expected Dec 2027). I build full-stack apps, ML systems, and iOS apps — currently contributing to open source and looking for a Summer 2027 SWE internship.
+CS @ Clemson University. I build full-stack apps, ML systems, and iOS apps — currently contributing to open source.
 
 ## 🔨 What I'm working on
 
