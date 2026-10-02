@@ -8,9 +8,13 @@ CS @ Clemson University (B.S. expected Dec 2027). I build full-stack apps, ML sy
 - [**TrafficPrediction**](https://github.com/kellytran969/TrafficPrediction) — real-time traffic forecasting across 5 U.S. metros: streaming ingestion → Postgres → XGBoost models → FastAPI + React dashboard, deployed on K8s
 - [**LearningTool**](https://github.com/kellytran969/LearningTool) — AI learning platform: Django REST + Postgres/Redis backend, React + TypeScript frontend, with a quiz-driven recommendation engine
 
-## 🛠️ Stack
+## 🔧 Technologies
 
-Python · Swift/SwiftUI · TypeScript · React · Django · FastAPI · PostgreSQL · Redis · Docker · Kubernetes · XGBoost/scikit-learn
+- Languages: Python, Java, C/C++, JavaScript/TypeScript, Go, SQL
+- Backend: Spring Boot, Django, Flask, REST APIs, gRPC
+- Databases: PostgreSQL, MySQL
+- Cloud & DevOps: AWS, Docker, Kubernetes
+- AI/ML: Scikit-learn, XGBoost, PyTorch
 
 ## 📫 Find me
 
