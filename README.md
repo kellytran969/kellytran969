@@ -1,6 +1,6 @@
 # Hi, I'm Khanh (Kelly) Tran 👋
 
-CS @ Clemson University. I build full-stack apps, ML systems, and iOS apps — currently contributing to open source
+CS @ Clemson University. I build full-stack apps, ML systems, and iOS apps — currently contributing to open source.
 
 ## 🔨 What I'm working on
 
